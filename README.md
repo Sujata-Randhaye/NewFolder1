@@ -1,1 +1,1 @@
-#I am learing creating repo using git
+#I am learning creating repo using git
